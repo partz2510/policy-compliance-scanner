@@ -25,3 +25,28 @@ python -m venv .venv
 # or
 source .venv/bin/activate       # macOS/Linux
 pip install -r requirements.txt
+```
+
+## 🧠 Usage
+
+Place your config files in the configs/ folder, then run:
+```bash
+python scanner.py
+```
+
+## 🧾 Example Output
+![Security Policy Compliance Scanner](https://github.com/partz2510/policy-compliance-scanner/blob/main/screenshot/policy%20compliance%20scanner.png?raw=true)
+
+
+## 🔮 Future Improvements
+
+1. Add more compliance rules (e.g., encryption checks)
+
+2. Assign severity levels (Low / Medium / High)
+
+3. Add --path argument for scanning custom folders
+
+## ✨ Author
+
+Parthiban Ganesan
+💼 Cybersecurity & Cloud Enthusiast
