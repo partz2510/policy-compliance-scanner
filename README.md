@@ -39,6 +39,7 @@ python scanner.py
 
 Report saved as scan_report.json
 
+
 ## 🔮 Future Improvements
 
 1. Add more compliance rules (e.g., encryption checks)
