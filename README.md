@@ -37,7 +37,7 @@ python scanner.py
 ## 🧾 Example Output
 ![Security Policy Compliance Scanner](https://github.com/partz2510/policy-compliance-scanner/blob/main/screenshot/policy%20compliance%20scanner.png?raw=true)
 
-Report saved as scan_report.json
+                                                     Report saved as scan_report.json
 
 ## 🔮 Future Improvements
 
