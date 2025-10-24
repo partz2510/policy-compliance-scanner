@@ -1,0 +1,8 @@
+{
+  "sample1.json": [
+    "Public Access Enabled",
+    "Open Admin Port (22/3389)",
+    "Weak Password Policy"
+  ],
+  "sample2.yaml": []
+}

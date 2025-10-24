@@ -1,0 +1,5 @@
+{
+  "PublicAccess": true,
+  "Port": 22,
+  "PasswordPolicy": "weak"
+}
